@@ -1,0 +1,111 @@
+#+TITLE: Awesome大学無線LAN
+
+* 概要
+このファイルには日本の大学で提供されている無線LANサービスを説明しているwebページのURLをまとめる。
+情報セキュリティ上の理由からサービス詳細が外部には公開されていない場合が多いことに注意。
+ここでは公開されており、さらに詳細に関するリンク等を含むページを対象とする。
+ただし[[https://eduroam.org/][eduroam]]に関するものは除く。
+ライセンスは[[file:LICENSE][CC0]]。
+
+* 構成について
+- 各一覧ではURLに含まれる大学のドメイン名のアルファベット順に並べる。
+- PDFにはリンクしない。
+
+* Wi-Fi
+
+** ehime-u.ac.jp
+愛媛大学無線ネットワーク
+https://www.cite.ehime-u.ac.jp/network/wifi/
+
+** hiroshima-u.ac.jp
+HINET Wi-Fi
+https://www.media.hiroshima-u.ac.jp/services/hinet/wifi/
+
+** jaist.ac.jp
+情報社会基盤センター 無線LAN
+https://www.jaist.ac.jp/iscenter/network/wireless/
+
+** kanagawa-u.ac.jp
+無線LAN(Wi-Fi)について知りたい
+http://mns.kanagawa-u.ac.jp/WiFi/wifi.html
+
+** kobe-u.ac.jp
+全学用無線LAN
+https://www.istc.kobe-u.ac.jp/services/StandardService/WirelessLAN/
+
+** kumamoto-u.ac.jp
+全学無線LAN
+http://www.cc.kumamoto-u.ac.jp/node/83
+
+** kyoto-u.ac.jp
+京都大学情報環境機構 無線LAN(Wi-Fi) KUINS-Air
+https://www.iimc.kyoto-u.ac.jp/ja/services/network/wifi/kuins-air.html
+
+** meiji.ac.jp
+無線LAN接続サービスについて
+https://www.meiji.ac.jp/mind/wireless/
+
+** nagoya-cu.ac.jp
+無線LAN(ncuwifi)について
+https://www.nagoya-cu.ac.jp/affiliate/ict/network/ncuwifi/
+
+** nagoya-u.ac.jp
+名古屋大学無線ネットワーク (NUWNET)
+https://icts.nagoya-u.ac.jp/ja/services/nuwnet/
+
+** oit.ac.jp
+学内無線ネットワークサービスについて
+https://www.oit.ac.jp/japanese/center/wlan.html
+
+** okayama-u.ac.jp
+無線LANサービス
+http://www.citm.okayama-u.ac.jp/citm/service/wlan/wlan.html
+
+** osaka-u.ac.jp
+Wi-Fi（無線LANサービス）について
+https://www.odins.osaka-u.ac.jp/wireless/
+
+** rikkyo.ac.jp
+学内無線LAN接続について
+https://spirit.rikkyo.ac.jp/mc/network/wifi/SitePages/index.aspx
+
+** ritsumei.ac.jp
+ネットワーク接続（無線LAN（Wi-Fi）、有線LAN、VPN）
+https://it.support.ritsumei.ac.jp/hc/ja/categories/900001274683-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%8E%A5%E7%B6%9A-%E7%84%A1%E7%B7%9ALAN-Wi-Fi-%E6%9C%89%E7%B7%9ALAN-VPN-
+
+** saga-u.ac.jp
+学内無線LAN(000saga-u)の利用
+https://www.cc.saga-u.ac.jp/use/wifi
+
+** shimane-u.ac.jp
+学内無線LANサービス
+https://www.g-ipc.shimane-u.ac.jp/service/lan/
+
+** takushoku-u.ac.jp
+学内無線LAN
+https://www.takushoku-u.ac.jp/students/Wi-Fi.html
+
+** tsukuba.ac.jp
+学内無線LANシステム
+https://www.cc.tsukuba.ac.jp/wp/service/wireless/
+
+** u-tokai.ac.jp
+無線LANサービスの利用
+https://www.cc.u-tokai.ac.jp/faq/wireless/
+
+** u-tokyo.ac.jp
+UTokyo Wi-Fi
+https://utelecon.adm.u-tokyo.ac.jp/utokyo_wifi/
+
+** wakayama-u.ac.jp
+学内無線LAN(Wi-Fi)について
+https://www.wakayama-u.ac.jp/aic/service/wifi
+
+** waseda.jp
+無線LAN接続
+https://www.waseda.jp/navi/network/wireless_new.html
+
+** yokkaichi-u.ac.jp
+無線LAN(WiFi)の利用
+https://web.yokkaichi-u.ac.jp/yucc/wifi
+
