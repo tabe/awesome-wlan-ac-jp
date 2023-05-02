@@ -25,9 +25,17 @@ https://www.media.hiroshima-u.ac.jp/services/hinet/wifi/
 情報社会基盤センター 無線LAN
 https://www.jaist.ac.jp/iscenter/network/wireless/
 
+** kaiyodai.ac.jp
+無線LANについて
+https://sites.google.com/site/kaiyonet2016/wlan
+
 ** kanagawa-u.ac.jp
 無線LAN(Wi-Fi)について知りたい
 http://mns.kanagawa-u.ac.jp/WiFi/wifi.html
+
+** kiu.ac.jp
+無線LANの利用方法
+https://www.kiu.ac.jp/academicpursuits/netcenter/wifi/
 
 ** kobe-u.ac.jp
 全学用無線LAN
@@ -44,6 +52,10 @@ https://www.iimc.kyoto-u.ac.jp/ja/services/network/wifi/kuins-air.html
 ** meiji.ac.jp
 無線LAN接続サービスについて
 https://www.meiji.ac.jp/mind/wireless/
+
+** muroran-it.ac.jp
+ネットワークに接続する
+https://wp.mmm.muroran-it.ac.jp/network/
 
 ** nagoya-cu.ac.jp
 無線LAN(ncuwifi)について
@@ -81,6 +93,10 @@ https://www.cc.saga-u.ac.jp/use/wifi
 学内無線LANサービス
 https://www.g-ipc.shimane-u.ac.jp/service/lan/
 
+** shizuoka.ac.jp
+学生＆教職員向け：無線LAN（eduroam、WRL-SUCCES-S3）の接続方法について
+https://www.cii.shizuoka.ac.jp/?page_id=2750
+
 ** takushoku-u.ac.jp
 学内無線LAN
 https://www.takushoku-u.ac.jp/students/Wi-Fi.html
@@ -97,6 +113,10 @@ https://www.cc.u-tokai.ac.jp/faq/wireless/
 UTokyo Wi-Fi
 https://utelecon.adm.u-tokyo.ac.jp/utokyo_wifi/
 
+** uec.ac.jp
+UEC Wireless
+https://www.cc.uec.ac.jp/srv/all/uec_wireless/
+
 ** wakayama-u.ac.jp
 学内無線LAN(Wi-Fi)について
 https://www.wakayama-u.ac.jp/aic/service/wifi
@@ -104,6 +124,10 @@ https://www.wakayama-u.ac.jp/aic/service/wifi
 ** waseda.jp
 無線LAN接続
 https://www.waseda.jp/navi/network/wireless_new.html
+
+** ynu.ac.jp
+YNU Wi-Fi（無線LAN接続）サービス
+https://www.itsc.ynu.ac.jp/network/ynu-wifi.html
 
 ** yokkaichi-u.ac.jp
 無線LAN(WiFi)の利用
